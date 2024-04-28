@@ -58,6 +58,7 @@ body{
     text-align: center;
     border: 2px solid black;
     border-radius: 15px;
+    background-color: silver;
 }
 
 .lincked_list a{
